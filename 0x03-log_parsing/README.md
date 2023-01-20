@@ -1,1 +1,2 @@
-# log parsing
+# introduction to log parsing
+

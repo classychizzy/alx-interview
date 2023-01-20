@@ -1,9 +1,6 @@
-#!/usr/bin/env python3
-"""
-a script that reads from stdin line by line
-"""
-
-
+#!/usr/bin/python3
+'''A script for parsing HTTP request logs.
+'''
 import re
 
 
