@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/python3
 """
 a program that validates if a given dataset is
 utf-8 encoded
