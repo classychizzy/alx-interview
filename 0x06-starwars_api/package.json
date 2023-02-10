@@ -1,15 +1,17 @@
 {
   "name": "0x06-starwars_api",
   "version": "1.0.0",
-  "description": "",
+  "description": "a program that prints starwars characters",
   "main": "0-starwars_characters.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "",
+    "lint": "semistandard --fix"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "request": "^2.88.2",
     "semistandard": "^16.0.1"
   }
 }
